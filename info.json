@@ -1,0 +1,17 @@
+{
+  "name": "timspeedle-modpack-qol",
+  "author": "timspeedle",
+  "contact": "Discord: timspeedle",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "homepage": "https://github.com/timspeedle/timspeedle-modpack-se",
+  "title": "Timspeedle's curated list of mods to include when playing a game including Space Exploration",
+  "description": "This mod is a curated list of mods that truly enhance a Space Exploration playthrough. I use this as a convenience for me to include all my favorites in one place, rather than having to add all of them into my game.",
+  "dependencies": [
+    "base >= 1.1.0",
+    "boblogistic-space-ex-logistic-chest-balance >= 0.0.1",
+    "deep-core-fragment-balancer >= 1.0.1",
+    "puppy-jetpack-ui >= 0.1.8",
+    "rocket-log >= 1.1.12"
+  ]
+}

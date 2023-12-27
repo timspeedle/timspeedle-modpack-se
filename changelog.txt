@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-12-27
+  Mods added:
+    - boblogistic-space-ex-logistic-chest-balance
+    - deep-core-fragment-balancer
+    - puppy-jetpack-ui
+    - rocket-log
+  Uploaded by:
+    - timspeedle
